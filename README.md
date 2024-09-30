@@ -1,1 +1,5 @@
-# My work for CSE031 at UC Merced. CSE031 is a course on Computer Architecture that is taught using C and mips assembly. 
+# CSE031
+
+## Computer Architecture at UC Merced
+
+CSE031 teaches computer architecture using both the c and mips assembly programming languages
